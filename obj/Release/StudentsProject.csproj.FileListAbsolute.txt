@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\StudentsProject\bin\Release\StudentsProject.exe.config
+C:\Users\User\Desktop\StudentsProject\bin\Release\StudentsProject.exe
+C:\Users\User\Desktop\StudentsProject\bin\Release\StudentsProject.pdb
+C:\Users\User\Desktop\StudentsProject\obj\Release\StudentsProject.csprojAssemblyReference.cache
+C:\Users\User\Desktop\StudentsProject\obj\Release\StudentsProject.Properties.Resources.resources
+C:\Users\User\Desktop\StudentsProject\obj\Release\StudentsProject.Views.SpecialtiesForm.resources
+C:\Users\User\Desktop\StudentsProject\obj\Release\StudentsProject.Views.SpecialtyEditorForm.resources
+C:\Users\User\Desktop\StudentsProject\obj\Release\StudentsProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\StudentsProject\obj\Release\StudentsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\StudentsProject\obj\Release\StudentsProject.exe
+C:\Users\User\Desktop\StudentsProject\obj\Release\StudentsProject.pdb
+C:\Users\User\Desktop\StudentsProject\obj\Release\StudentsProject.Views.StudentsForm.resources
+C:\Users\User\Desktop\StudentsProject\obj\Release\StudentsProject.Views.StudentsEditorForm.resources
+C:\Users\User\Desktop\StudentsProject\obj\Release\StudentsProject.Views.MainForm.resources

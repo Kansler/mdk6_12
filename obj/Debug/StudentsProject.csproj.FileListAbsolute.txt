@@ -1,0 +1,11 @@
+C:\Users\Админ_ВПТ\source\repos\StudentsProject\bin\Debug\StudentsProject.exe.config
+C:\Users\Админ_ВПТ\source\repos\StudentsProject\bin\Debug\StudentsProject.exe
+C:\Users\Админ_ВПТ\source\repos\StudentsProject\bin\Debug\StudentsProject.pdb
+C:\Users\Админ_ВПТ\source\repos\StudentsProject\obj\Debug\StudentsProject.csprojAssemblyReference.cache
+C:\Users\Админ_ВПТ\source\repos\StudentsProject\obj\Debug\StudentsProject.Properties.Resources.resources
+C:\Users\Админ_ВПТ\source\repos\StudentsProject\obj\Debug\StudentsProject.Views.SpecialtiesForm.resources
+C:\Users\Админ_ВПТ\source\repos\StudentsProject\obj\Debug\StudentsProject.csproj.GenerateResource.cache
+C:\Users\Админ_ВПТ\source\repos\StudentsProject\obj\Debug\StudentsProject.csproj.CoreCompileInputs.cache
+C:\Users\Админ_ВПТ\source\repos\StudentsProject\obj\Debug\StudentsProject.exe
+C:\Users\Админ_ВПТ\source\repos\StudentsProject\obj\Debug\StudentsProject.pdb
+C:\Users\Админ_ВПТ\source\repos\StudentsProject\obj\Debug\StudentsProject.Views.SpecialtyEditorForm.resources
